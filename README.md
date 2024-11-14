@@ -4,25 +4,25 @@
 
 ###
 
-<h2 align="center">Roboticist |  UAV Engineer</h2>
+<h2 align="center">Master in Robotics | Electronics Engineer | UAV Enthusiast</h2>
 
 ###
 
-<p align="center">Hello, I am Hüseyin Ayvacı graduated from University Of Sakarya, Turkey.<br><b>A passionate self-learner</b></p>
+<p align="center">Hello, I am Muhammed Riswan graduated from College of Engineering Trivandrum, India.<br><b>A passionate self-learner</b></p>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/h%C3%BCseyin-ayvac%C4%B1-zarquon/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammedriswanmp/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="42" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/channel/UCz2-mjSJS3UFIwKBw8frfNQ" target="_blank">
+  <a href="https://www.youtube.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="54" height="42" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/zarqu0n.cpp/" target="_blank">
+  <a href="https://www.instagram.com/jazdot/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="42" alt="instagram logo"  />
   </a>
-  <a href="mailto:huseyin.z.ayvaci@gmail.com" target="_blank">
+  <a href="mailto:riswanmp6@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="42" alt="gmail logo"  />
   </a>
 </div>
@@ -33,11 +33,11 @@
 <h2 align="center">My working tools
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
   <img width="12" />
