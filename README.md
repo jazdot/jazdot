@@ -19,7 +19,7 @@
   <a href="https://www.youtube.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="54" height="42" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/jazdot/" target="_blank">
+  <a href="https://www.instagram.com/jaz_dot/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="42" alt="instagram logo"  />
   </a>
   <a href="mailto:riswanmp6@gmail.com" target="_blank">
@@ -72,7 +72,7 @@
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Zarqu0n&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=jazdot&theme=nord" />
 
 
 
