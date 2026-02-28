@@ -53,14 +53,38 @@
 <br><br>
 
 <div align="center">
-  <h3>GitHub Analytics</h3>
+  <h3>Engineering Highlights</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=jazdot&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" width="45%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jazdot&layout=compact&hide_border=true&theme=transparent&langs_count=5" width="35%" alt="Top Languages" />
+  <table>
+    <tr>
+      <td align="center" width="250"><b>💻 Top Languages</b></td>
+      <td align="center" width="250"><b>🚁 Focus Areas</b></td>
+      <td align="center" width="250"><b>📈 Open Source</b></td>
+    </tr>
+    <tr>
+      <td align="left">
+        <ul>
+          <li><b>C++</b> (Robotics / Systems)</li>
+          <li><b>Python</b> (Scripting / AI)</li>
+          <li><b>C</b> (Firmware / Microcontrollers)</li>
+        </ul>
+      </td>
+      <td align="left">
+        <ul>
+          <li>UAV Flight Controllers (PX4)</li>
+          <li>Robot Operating System (ROS)</li>
+          <li>Embedded Electronics</li>
+        </ul>
+      </td>
+      <td align="left">
+        <ul>
+          <li>Active continuous learner</li>
+          <li>Building autonomous tools</li>
+          <li>Clean, scalable architectures</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jazdot&theme=transparent&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</div>
