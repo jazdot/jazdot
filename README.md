@@ -1,7 +1,5 @@
 <div align="center">
   <img height="150" src="https://github.com/jazdot/jazdot/blob/main/ProfileImage.webp" />
-  <img height="150" src="https://github.com/jazdot/jazdot/blob/main/banner2.webp" />
-  <img height="150" src="https://github.com/jazdot/jazdot/blob/main/pp2.webp" />
 
   <br><br>
 
