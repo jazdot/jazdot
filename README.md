@@ -1,6 +1,6 @@
 <div align="center">
 
-  <br><br>
+  <br>
 
   <h1>MUHAMMED RISWAN M. P.</h1>
   <p><b>Senior Engineer (Cloud & DevOps) @ Tata Elxsi[cite: 1] | MTech in Robotics & Automation[cite: 1]</b></p>
